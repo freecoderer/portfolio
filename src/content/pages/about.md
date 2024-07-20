@@ -15,6 +15,12 @@ seo:
 
 Hello! I'm Donghyun Kim, an enthusiastic and dedicated IT professional. I am a curious and proactive learner who enjoys tackling new challenges and finding innovative solutions. I value teamwork and believe in the power of collaboration to achieve great results. With a friendly and positive attitude, I strive to make a meaningful impact and contribute to a happier and more connected society. Looking forward to connecting!
 
+## 📈 Professional Experience
+
+### 🛒 11번가 (11street), Korea
+**Assistant Planning Manager (Intern)**  
+*Duration: 2024-07-22 - Present*
+
 ## 🎓 Education
 
 ### 📚 Catholic University of Korea
@@ -22,23 +28,6 @@ Hello! I'm Donghyun Kim, an enthusiastic and dedicated IT professional. I am a c
 
 ### 🌍 University of Skövde, Sweden
 - **Program**: Exchange Student in Information Engineering
-
-## 📈 Professional Experience
-
-### 🛒 11번가 (11street), Korea
-**Assistant Planning Manager (Intern)**  
-*Duration: 2024-07-22 - Present*
-
-## 📜 Certifications
-
-- **Information Processing Engineer**
-- **SQLD (SQL Developer)**
-- **ADsP (Advanced Data Analytics Professional)**
-- **Network Administrator Level 2**
-- **Linux Master Level 2**
-- **OPIc - AL (Advanced Low)**
-- **TOEIC - 885**
-- **Georgia Tech - Data Structures and Algorithms**
 
 ## 🛠️ Skills
 

@@ -4,10 +4,6 @@ excerpt: Brief information of my activity in 2016
 publishDate: 'Aug 10 2023'
 tags:
   - Guide
-seo:
-  image:
-    src: '/post-1.jpg'
-    alt: A person standing at the window
 ---
 
 ![A person standing at the window](/post-1.jpg)
