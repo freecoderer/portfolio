@@ -1,66 +1,64 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+title: 'Mylist'
+description: Mylist is an innovative music taste-based web and app platform designed to connect users through their unique musical preferences.
+publishDate: 'Mar 31 2024'
+isFeatured: true
 seo:
   image:
-    src: '/project-1.jpg'
+    src: '/darklogo.png'
     alt: Project preview
 ---
 
-![Project preview](/project-1.jpg)
+![Project preview](/darklogo.png)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+# 🎵 Mylist Project
 
-**Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+## 🌟 Overview
+**Mylist** is an innovative music taste-based web and app platform designed to connect users through their unique musical preferences. Our mission is to create a vibrant community where people can share their playlists, discover new music, and interact with others who share similar tastes.
 
-## Objectives
+## 🎯 Goals
+- **Community Building**: Foster connections and interactions based on shared music interests.
+- **Personalized Music Discovery**: Leverage AI to offer music and playlist recommendations tailored to each user.
+- **User Engagement**: Promote playlist sharing and community interaction to create a lively and engaging platform.
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+## ✨ Key Features
+- **🎧 Music Sharing**: Create and share personalized playlists with the community.
+- **🤖 AI-Based Recommendations**: Utilize a Retrieval-Augmented Generation (RAG) model to deliver recommendation among users who has a similar musical taste.
+- **👤 User Profiles**: Showcase musical tastes and shared playlists through user profiles.
+- **💬 Social Interaction**: Follow other users, comment on playlists, and engage in music discussions.
 
-## Features
+## 💻 Technologies Used
+### Frontend
+- **⚛️ React**: For a responsive and dynamic user interface.
+- **🌐 HTML/CSS/JavaScript**: Core web technologies for structuring and styling the platform.
 
-1. **EcoScore and Challenges:**
+### Backend
+- **🟢 Node.js & Express.js**: For efficient server-side development and API management.
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
+### Database
+- **🍃 MongoDB**: To store user data, playlists, and interaction histories.
 
-2. **Personalized Eco-Goals:**
+### AI/ML
+- **🐍 Python & Langchain**: For implementing the RAG model and AI-based music recommendations.
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
+### Project Management
+- **📊 JIRA** : For tracking progress, managing tasks, and coordinating the development team.
 
-3. **Green Rewards Marketplace:**
+## 🏆 Achievements
+- **📈 User Engagement**: Over 200 active users regularly sharing and discovering music.
+- **💸 Revenue Generation**: Successful implementation of a profile matching service that generated actual sales.
+- **🥇 Awards**: Winner of the AI-Driven Cultural Content Idea Competition.
+- **🏅 Government Support**: Passed the first stage of the Pre-Startup Package supported by the government.
 
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
+## 🎓 Role and Contributions
+- **👨‍💼 Founder & Project Owner**: Directed the project's vision and ensured alignment with goals.
+- **💻 Frontend Developer**: Developed a seamless and engaging user interface with React.
+- **🤖 AI Developer**: Implemented personalized music recommendations using Python and Langchain.
+- **📋 Project Manager**: Coordinated the team, managed timelines, and facilitated smooth project execution.
 
-4. **Community Hub:**
+## 🌟 Key Learning and Impact
+Through Mylist, I gained invaluable experience in full-stack development, AI implementation, and project management. This project honed my technical skills, taught me the intricacies of team management, and underscored the importance of user engagement and feedback. The insights and skills gained from Mylist have prepared me to tackle complex projects and drive innovation in the tech industry.
 
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
-
-5. **EcoEducator AI Assistant:**
-
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
-
-## Technology Stack
-
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
-
-## Outcome
-
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## 🔗 Links
+- **GitHub Repository**: [Mylist Project](https://github.com/freecoderer/mylist)
+- **Website**: [Mylist](https://mylist.im)

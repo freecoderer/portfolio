@@ -1,64 +1,60 @@
 ---
-title: 'TimeWarp - Travel Agency Website'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
-publishDate: 'Oct 2 2023'
+title: 'Neo Trinity'
+description: 'Blockchain-based platform for enhancing security and transparency in campus rental and voting systems.'
+publishDate: 'dec 15 2023'
 isFeatured: true
 seo:
   image:
-    src: '/project-2.jpg'
+    src: '/neotrinity.png'
     alt: Project preview
 ---
 
-![Project preview](/project-2.jpg)
+![Project preview](/neotrinity.png)
+# 🔗 Neo Trinity Project
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## 🌟 Overview
+**Neo Trinity** is a blockchain-based platform designed to enhance security and transparency in campus rental and voting systems. This project leverages blockchain technology to provide a decentralized and tamper-proof solution for managing various campus activities.
 
-**Project Overview:**
-TimeWarp Travel Agency aims to redefine the travel experience by offering an innovative and immersive online platform that explores the concept of time travel. The website combines cutting-edge technology with captivating storytelling to provide users with a unique journey through time.
+## 🎯 Goals
+- **Enhanced Security**: Implement a secure system for campus rentals and voting to prevent tampering and ensure transparency.
+- **Decentralization**: Utilize blockchain technology to create a decentralized platform, reducing the reliance on central authorities.
+- **User Authentication**: Provide a robust and secure method for user authentication and authorization.
 
-> Working with Ethan Donovan was a game-changer for our online presence. Their innovative solutions and attention to detail turned our vision into a reality. The website not only looks fantastic but also functions seamlessly. A true professional who exceeded our expectations!
+## ✨ Key Features
+- **🔒 Blockchain-Based Voting System**: Utilize blockchain to create a transparent and immutable voting system, ensuring the integrity of votes.
+- **🏠 Secure Rental Management**: Implement a blockchain-based rental system for campus facilities, preventing unauthorized access and tampering.
+- **🔐 Zero-Knowledge Proofs**: Use zero-knowledge proofs (ZKPs) for secure and private user authentication without revealing sensitive information.
+- **📡 IoT Integration**: Integrate IoT devices to automate and secure the process of accessing rented facilities.
 
-## Objectives
+## 💻 Technologies Used
+### Blockchain
+- **🌐 Ethereum/Solidity**: For developing smart contracts that handle voting and rental management on the blockchain.
 
-1. Create a visually stunning and user-friendly website that captures the essence of time travel.
-2. Integrate interactive elements to engage users and make the experience memorable.
-3. Develop a responsive design to ensure a seamless user experience across various devices.
+### Programming Languages
+- **🐍 Python**: For raspberry pi and IoT device programming.
+- **🌐 Flutter**: For developing the front-end user interface.
 
-## Features
+### IoT
+- **📡 Raspberry Pi and Other IoT Devices**: For controlling physical access to facilities based on blockchain authentication.
 
-1. **Dynamic Destination Timelines:**
+### Security
+- **🔒 Zero-Knowledge Proofs (ZKPs)**: For secure authentication without compromising user privacy.
 
-- Users can explore destinations through dynamic timelines, showcasing significant historical events, cultural developments, and architectural milestones.
-- Interactive sliders allow users to navigate through different eras, providing a visual representation of the historical evolution of each location.
+## 🏆 Achievements
+- **✅ Secure Voting System**: Successfully implemented a blockchain-based voting system that ensures transparency and prevents tampering.
+- **🏠 Automated Rental System**: Developed a secure and automated rental system using blockchain and IoT devices.
+- **🏅 Recognition**: Awarded at the Catholic University Capstone Design Competition (2023-02) for innovative use of blockchain technology in campus management.
 
-2. **Interactive Historical Events:**
+## 🎓 Role and Contributions
+- **👨‍💼 Project Manager**: Led the project, coordinating tasks, managing timelines, and ensuring that project goals were met.
+- **🔧 Embedded Software Developer**: Developed IoT solutions using Raspberry Pi to control access to rented facilities, integrating them with the blockchain.
+- **🔒 Blockchain Developer**: Designed and implemented smart contracts using Solidity for secure voting and rental management.
+- **💻 Frontend Developer**: Developed the user interface using React, ensuring a seamless and user-friendly experience.
 
-- Users can click on specific points in the timeline to reveal detailed information about key historical events related to the chosen destination.
-- Rich multimedia content, including images, videos, and articles, provides a comprehensive understanding of each event.
+## 🌟 Key Learning and Impact
+The Neo Trinity project provided extensive hands-on experience in blockchain technology and its practical applications. I learned how to design and implement secure systems using smart contracts and zero-knowledge proofs, enhancing my knowledge in cybersecurity. Additionally, integrating IoT devices with blockchain taught me the intricacies of combining hardware and software to create automated solutions. This project significantly improved my project management skills, allowing me to effectively lead a team and deliver a complex technical solution. The Neo Trinity project has prepared me to tackle advanced security challenges and drive innovation in the field of blockchain technology.
 
-3. **Personalized Time Travel Planner:**
-
-- A personalized planner feature enables users to create their time travel itineraries by selecting specific eras and destinations.
-- The system suggests thematic experiences, such as attending historical events or meeting famous personalities.
-
-4. **Time-Port Virtual Reality Experience:**
-
-- For an extra layer of immersion, users can opt for the Time-Port VR experience, allowing them to virtually step into different time periods and explore the surroundings in 360 degrees.
-
-5. **Chronicle Explorer Blog:**
-
-- A blog section, "Chronicle Explorer," offers in-depth articles and stories about various historical periods and their impact on the destinations featured on the platform.
-- Users can engage with the content, comment, and share their own historical insights.
-
-## Technology Stack
-
-- **Frontend:** [Astro.js](https://astro.build/) for a dynamic and responsive user interface and [Tailwind CSS](https://tailwindcss.com/) for styling.
-- **Backend:** Node.js for handling server-side logic and API integration.
-- **Database:** MongoDB for efficient storage and retrieval of historical data.
-- **VR Integration:** A-Frame framework for creating immersive virtual reality experiences.
-
-## Outcome
-
-The TimeWarp Travel Agency Website successfully brings the concept of time travel to life, providing users with a captivating and educational experience. The website not only serves as a travel planning tool but also as an interactive platform that encourages users to explore and appreciate the rich tapestry of human history.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## 🔗 Links
+- **GitHub Repository**: [Neo Trinity Project](https://github.com/freecoderer/neotrinity)
+- **Project Demo**: [Neo Trinity Demo](https://www.youtube.com/watch?v=lmznvGkTQeE) (Note: Video supports only Korean)
+```

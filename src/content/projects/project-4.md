@@ -1,61 +1,57 @@
 ---
-title: 'NeuralPlaylist - AI Generated Music Recommendations'
-description: Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
-publishDate: 'Oct 19 2023'
+title: 'My Green'
+description: My Green is an interactive embedded web app system designed to monitor and manage plant health while providing users with a unique, engaging experience.
+publishDate: 'Jun 19 2023'
+isFeatured: true
 seo:
   image:
-    src: '/project-4.jpg'
+    src: '/mygreen.png'
 ---
 
-![Project preview](/project-4.jpg)
+![Project preview](/mygreen.png)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+# 🌱 My Green Project
 
-**Project Overview:**
-NeuralPlaylist is a cutting-edge web application that redefines music discovery through the power of artificial intelligence. Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
+## 🌟 Overview
+**My Green** is an interactive embedded web app system designed to monitor and manage plant health while providing users with a unique, engaging experience. By leveraging Raspberry Pi and Flutter, My Green allows users to interact with their plants in real-time, ensuring optimal care and fostering a deeper connection with nature.
 
-## Objectives
+## 🎯 Goals
+- **Plant Health Monitoring**: Provide real-time data on plant health to ensure optimal care.
+- **User Engagement**: Create an interactive experience where users can engage with their plants in new and meaningful ways.
+- **Innovative Use of Technology**: Integrate embedded systems and web app technology to create a seamless user experience.
 
-1. Develop an intuitive and user-friendly web application that utilizes AI to curate personalized music playlists for users.
-2. Implement machine learning models that analyze user behavior, preferences, and physiological responses to create dynamic and context-aware music recommendations.
-3. Provide an immersive and interactive platform that enhances the music listening experience and introduces users to new genres and artists.
+## ✨ Key Features
+- **📊 Real-Time Monitoring**: Display real-time data on plant health, including soil moisture, light levels, and temperature.
+- **🌐 Web App Interface**: Accessible web app built with Flutter for users to monitor and manage their plants remotely.
+- **📷 Webcam Integration**: Use a webcam to recognize and interact with the user, providing a more engaging experience.
+- **🗣️ Voice Interaction**: Implement a Large Language Model (LLM) to enable voice interactions with the plant, similar to a virtual assistant like Giga Genie.
 
-## Features
+## 💻 Technologies Used
+### Hardware
+- **🔌 Raspberry Pi**: Used as the central hub for collecting sensor data and controlling the system.
+- **💡 Sensors**: Various sensors to measure soil moisture, light levels, and temperature.
+- **📷 Webcam**: For user recognition and interaction.
+- **🔊 Speaker and Microphone**: For voice interaction with the plant.
 
-1. **Biometric Mood Analysis:**
+### Software
+- **📱 Flutter**: For developing the web app interface, providing a cross-platform solution.
+- **🐍 Python**: For backend processing, data collection from sensors, and integrating with the LLM for voice interaction.
+- **🧠 Large Language Model (LLM)**: Used for voice interaction and providing information on plant care.
+- **🌐 NodeJS**: For server-side logic and real-time data processing.
 
-- NeuralPlaylist incorporates biometric data analysis to understand users' moods and emotional states.
-- The AI algorithms use facial recognition and heart rate data to curate playlists that match users' current emotional states.
+## 🏆 Achievements
+- **🏅 Recognition**: Awarded the Encouragement Award at the Catholic University Capstone Design Competition (2023-01).
+- **📈 User Engagement**: Successfully created an engaging platform that combines technology with nature, attracting users interested in plant care and smart home solutions.
 
-2. **Personalized Playlists:**
+## 🎓 Role and Contributions
+- **👨‍💼 Project Manager**: Led the project, coordinating tasks, managing timelines, and ensuring the successful completion of the project.
+- **🔧 Embedded Developer**: Developed the hardware setup using Raspberry Pi and integrated various sensors to monitor plant health.
+- **💻 Web App Developer**: Built the web app interface using Flutter, ensuring a seamless user experience.
+- **🗣️ AI Developer**: Integrated the Large Language Model (LLM) for voice interaction, providing users with an innovative way to engage with their plants.
 
-- Users receive dynamic and highly personalized playlists based on their music history, preferences, and contextual factors.
-- NeuralPlaylist adapts to users' evolving tastes, introducing them to new genres and artists that align with their musical journey.
+## 🌟 Key Learning and Impact
+The My Green project provided extensive hands-on experience in embedded systems, web app development, and AI integration. I learned how to effectively combine hardware and software to create a cohesive and interactive user experience. The project enhanced my skills in project management, real-time data processing, and user interface design. The recognition received at the competition underscored the project's innovation and potential impact. My Green has prepared me to tackle complex technical challenges and develop solutions that blend technology with everyday life.
 
-3. **Context-Aware Recommendations:**
-
-- The application takes into account contextual factors such as time of day, weather, and location to tailor music recommendations.
-- Users receive playlists suited for specific occasions, moods, and environments.
-
-4. **Collaborative Playlists:**
-
-- NeuralPlaylist encourages social interaction by allowing users to create and share collaborative playlists with friends.
-- Friends can contribute to the playlist, creating a shared musical experience that adapts to the collective preferences of the group.
-
-5. **Real-Time Feedback Integration:**
-
-- Users can provide real-time feedback on song selections, allowing the AI to continuously refine recommendations.
-- The system learns from user interactions to enhance the accuracy of future music suggestions.
-
-## Technology Stack
-
-- Frontend: Vue.js for a dynamic and responsive user interface.
-- Backend: Flask for handling server-side logic and API integration.
-- Database: MongoDB for efficient storage and retrieval of user and music data.
-- AI Integration: PyTorch for developing machine learning models for music recommendation and biometric analysis.
-
-## Outcome
-
-NeuralPlaylist has redefined the music listening experience by harnessing the power of AI to provide users with hyper-personalized and context-aware playlists. The application not only adapts to users' musical preferences but also introduces them to new and exciting musical journeys based on their emotions and surroundings.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## 🔗 Links
+- **GitHub Repository**: [My Green Project](https://github.com/freecoderer/mygreen)
+- **Project Demo**: [My Green Demo](https://www.youtube.com/watch?v=RMGLtYVKPI0) (Note: Video supports only Korean)

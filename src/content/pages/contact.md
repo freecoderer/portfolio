@@ -11,4 +11,4 @@ _Email:_
 Feel free to drop me an email at [donggood7@naver.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
 
 _Social Media:_
-Connect with me on social media as well. Find me on [LinkedIn](www.linkedin.com/in/kdh1999dev/) or  [Instagram](https://www.instagram.com/cu_string/).
+Connect with me on social media as well. Find me on [LinkedIn](https://www.linkedin.com/in/dong-hyeon-kim-2ba75123a) or  [Instagram](https://www.instagram.com/cu_string/).
