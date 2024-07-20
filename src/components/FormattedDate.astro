@@ -1,7 +1,14 @@
 ---
-type Props = { date: Date };
+type Props = { date: Date | string };
 
-const { date } = Astro.props;
+const { date: propDate } = Astro.props;
+let date = new Date(propDate);
+
+// Ensure 'date' is a valid 'Date' object
+if (isNaN(date.getTime())) {
+    console.error('Invalid date provided to FormattedDate component');
+    date = new Date(); // Fallback to current date or handle as appropriate
+}
 ---
 
 <time datetime={date.toISOString()}>

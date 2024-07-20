@@ -19,31 +19,65 @@ Hello! I'm Donghyun Kim, an enthusiastic and dedicated IT professional. I am a c
 
 ### 📚 Catholic University of Korea
 - **Degree**: Bachelor of Science in Computer Engineering
-- **Activities**: 👨‍💻 Leader of the IT development club "LikeLion", Core Memer of the GDSC (Google Developer Student Club)
 
 ### 🌍 University of Skövde, Sweden
 - **Program**: Exchange Student in Information Engineering
-- **Focus**: 🔧 Advanced studies in information systems and technology like **ISO 27005** and **Computer Forensics**
 
+## 📈 Professional Experience
 
-## Innovation and Problem-Solving
+### 🛒 11번가 (11street), Korea
+**Assistant Planning Manager (Intern)**  
+*Duration: 2024-07-22 - Present*
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+## 📜 Certifications
 
-## Global Perspective, Local Impact
+- **Information Processing Engineer**
+- **SQLD (SQL Developer)**
+- **ADsP (Advanced Data Analytics Professional)**
+- **Network Administrator Level 2**
+- **Linux Master Level 2**
+- **OPIc - AL (Advanced Low)**
+- **TOEIC - 885**
+- **Georgia Tech - Data Structures and Algorithms**
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+## 🛠️ Skills
 
-## Continuous Learning
+### 💻 Programming Languages
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Python**
+- **C**
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+### 🌐 Web Development
+- **React**
+- **Node.js**
+- **Express.js**
 
-## Collaboration and Communication
+### 🗄️ Database Management
+- **MongoDB**
+- **SQL**
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+### 🧠 AI/ML
+- **Python (AI/ML)**
+- **Langchain**
+- **RAG (Retrieval-Augmented Generation)**
 
-## Get in Touch
+### 🖥️ Tools & Frameworks
+- **Figma**
+- **JIRA**
+- **Slack**
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+### 📊 Project Management
+- **Project Planning & Scheduling**
+- **Risk Management**
+- **Team Collaboration**
 
-_Let's build something amazing together!_
+### 🔧 Embedded Systems
+- **Raspberry Pi**
+- **Arduino**
+
+### 🕵️ Computer Forensics
+- **Data Recovery**
+- **Evidence Collection**
+- **Digital Investigations**

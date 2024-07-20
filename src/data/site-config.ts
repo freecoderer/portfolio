@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Dong Hyeon Kim',
-    subtitle: 'Passionate IT PMO Since 2015',
+    subtitle: 'Passionate IT PMO Since 2016',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -65,36 +65,22 @@ const siteConfig: SiteConfig = {
         {
             text: 'Tags',
             href: '/tags'
-        }
-    ],
-    footerNavLinks: [
-        // "About" link removed from here
+        },
         {
             text: 'Contact',
             href: '/contact'
         },
         {
+            text: 'Activities',
+            href: '/activities'
+        }
+    ],
+    footerNavLinks: [
+        // "About" link removed from here
+        {
             text: 'Terms',
             href: '/terms'
         },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
-    ],
-    socialLinks: [
-        {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
     ],
     hero: {
         title: 'Hello World!',
