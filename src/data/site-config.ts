@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Dong Hyeon Kim',
-    subtitle: 'Passionate Project Manager / Planner Since 2015',
+    subtitle: 'Passionate IT PMO Since 2015',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -49,6 +49,10 @@ const siteConfig: SiteConfig = {
         {
             text: 'Home',
             href: '/'
+        },
+        {
+            text: 'About',
+            href: '/about'
         },
         {
             text: 'Projects',
@@ -64,10 +68,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     footerNavLinks: [
-        {
-            text: 'About',
-            href: '/about'
-        },
+        // "About" link removed from here
         {
             text: 'Contact',
             href: '/contact'
@@ -96,10 +97,10 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hello I-net',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Hello World!',
+        text: "**Dong Hyeon Kim**, is an aspiring IT PMO and a dedicated generalist with a passion for understanding and managing diverse IT ecosystems within projects. With a background in Computer Engineering from Catholic University of Korea and international experience from the University of Skövde, Sweden, Dong hyeon combines technical expertise with strong project management skills. His work includes developing innovative solutions in web and AI technologies, as well as leading successful projects like Duett, a music taste-based platform. Dong hyeon is committed to creating user-centric services, fostering growth, and contributing to a happier society.",
         image: {
-            src: '/hero.jpeg',
+            src: '/dhkim.webp',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [

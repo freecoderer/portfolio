@@ -4,21 +4,27 @@ seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/about.jpeg'
+    src: '/dhkimblackwhite.jpg'
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/dhkimblackwhite.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Dong Hyeon Kim - IT Project Manager based in South Korea
 
-## Ethan Donovan - Web Developer based in Estonia
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+Hello! I'm Donghyun Kim, an enthusiastic and dedicated IT professional. I am a curious and proactive learner who enjoys tackling new challenges and finding innovative solutions. I value teamwork and believe in the power of collaboration to achieve great results. With a friendly and positive attitude, I strive to make a meaningful impact and contribute to a happier and more connected society. Looking forward to connecting!
 
-## Skills and Expertise
+## 🎓 Education
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+### 📚 Catholic University of Korea
+- **Degree**: Bachelor of Science in Computer Engineering
+- **Activities**: 👨‍💻 Leader of the IT development club "LikeLion", Core Memer of the GDSC (Google Developer Student Club)
+
+### 🌍 University of Skövde, Sweden
+- **Program**: Exchange Student in Information Engineering
+- **Focus**: 🔧 Advanced studies in information systems and technology like **ISO 27005** and **Computer Forensics**
+
 
 ## Innovation and Problem-Solving
 
