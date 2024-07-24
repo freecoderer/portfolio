@@ -13,7 +13,7 @@ seo:
 
 ## Introduction
 
-In 2019, as an amateur developer, I embarked on a journey to create a chat application using Java. This project, completed before GitHub became common in Korea, allowed me to delve into real-time communication systems, multithreading, and socket programming. The result was a robust and scalable chat application that enabled users to chat in real-time, share files, and even listen to music while chatting. This blog post provides an overview of the project, its goals, key features, technologies used, and the lessons learned during its development.
+In 2019, as an amateur developer, I embarked on a journey to create a chat application using Java. This project, completed before I was awared of GitHub, allowed me to delve into real-time communication systems, multithreading, and socket programming. The result was a robust and scalable chat application that enabled users to chat in real-time, share files, and even listen to music while chatting. This blog post provides an overview of the project, its goals, key features, technologies used, and the lessons learned during its development.
 
 ## Project Goals
 
