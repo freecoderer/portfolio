@@ -40,10 +40,10 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     title: 'Dong Hyeon Kim',
     subtitle: 'Passionate IT PMO / IT Admin / IT Operator',
-    description: 'Dong Hyeon Kim PM',
+    description: 'Dong Hyeon Kim Portfolio',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/dhkim.webp',
+        alt: 'Dong Hyeon Kim Portfolio'
     },
     headerNavLinks: [
         {
