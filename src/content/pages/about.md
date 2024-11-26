@@ -17,9 +17,13 @@ Hello! I'm Donghyun Kim, an enthusiastic and dedicated IT professional. I am a c
 
 ## 📈 Professional Experience
 
+### ⚙️ EQUINIX, International
+**Customer Operation Engineer**  
+*Duration: 2024-09 - Present*
+
 ### 🛒 11번가 (11street), Korea
-**Assistant Planning Manager (Intern)**  
-*Duration: 2024-07-22 - Present*
+**Assistant Planning Manager**  
+*Duration: 2024-07 - 2024-08*
 
 ## 🎓 Education
 
