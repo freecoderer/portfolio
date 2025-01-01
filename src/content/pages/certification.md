@@ -7,6 +7,7 @@ seo:
 
 ## 📜 Certifications
 
+- 🌐 **Google Analytics Certification**
 - 🖥️ **Information Processing Engineer**
 - 🛠️ **SQLD (SQL Developer)**
 - 📊 **ADsP (Advanced Data Analytics Semi-Professional)**
@@ -17,4 +18,4 @@ seo:
 ## 🌐 Language Proficiency
 
 - 📞 **OPIc - AL (Advanced Low)**
-- 📈 **TOEIC - 885**
+- 📈 **IELTS - (Band 7.0)**

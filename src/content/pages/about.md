@@ -65,6 +65,12 @@ Hello! I'm Donghyun Kim, an enthusiastic and dedicated IT professional. I am a c
 - **Project Planning & Scheduling**
 - **Risk Management**
 - **Team Collaboration**
+- **SLA Ticket handling**
+
+### 🌐 Layer 1 Engineering
+- **Install Cross-Connect**
+- **De-install Cross=Connect**
+- **Cabeling**
 
 ### 🔧 Embedded Systems
 - **Raspberry Pi**
