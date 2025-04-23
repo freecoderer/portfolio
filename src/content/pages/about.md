@@ -17,9 +17,13 @@ Hello! I'm Donghyun Kim, an enthusiastic and dedicated IT professional. I am a c
 
 ## 📈 Professional Experience
 
+### 🚀 PTKOREA, International
+**Assistant Project Manager**  
+*Duration: 2025-03 - Present*
+
 ### ⚙️ EQUINIX, International
 **Customer Operation Engineer**  
-*Duration: 2024-09 - Present*
+*Duration: 2024-09 - 2025-03*
 
 ### 🛒 11번가 (11street), Korea
 **Assistant Planning Manager**  

@@ -3,7 +3,12 @@ title: 'Duett: Music-Based Dating Service'
 description: 'A project designed to connect individuals through shared music preferences, integrating frontend and backend development for a seamless experience.'
 publishDate: 'Nov 15 2024'
 isFeatured: true
+seo:
+  image:
+    src: '/008.png'
 ---
+
+![Popup Preview](/008.png)
 
 # Project: Duett - Music-Based Dating Service
 

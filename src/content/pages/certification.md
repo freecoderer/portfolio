@@ -13,7 +13,16 @@ seo:
 - 📊 **ADsP (Advanced Data Analytics Semi-Professional)**
 - 🌐 **Network Administrator**
 - 🐧 **Linux Master**
-- 🏫 **Georgia Tech - Data Structures and Algorithms by EdX**
+- 🖥️ **Computer Specialist in Spreadsheet & Database Certification**
+
+
+## 🖥️ MOOCS
+-  **Google - Project Manager by Coursera**
+-  **Google - UX Design by Coursera**
+-  **Google - Digital Marketing & E-commerce by Coursera**
+-  **Atlassian - Agile with Jira by Coursera**
+-  **Freecodecamp - Responsive Web Design**
+-  **Georgia Tech - Data Structures and Algorithms by EdX**
 
 ## 🌐 Language Proficiency
 

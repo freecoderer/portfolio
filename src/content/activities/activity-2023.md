@@ -1,7 +1,6 @@
 ---
-title: Activity 2023
-excerpt: Brief information of my activity in 2023
-publishDate: '2023'
+title: Activity
+excerpt: Brief information of my activity
 tags:
   - Activity
 ---
