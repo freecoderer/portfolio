@@ -6,6 +6,7 @@ seo:
   image:
     src: '/dhkimblackwhite.jpg'
     alt: A person sitting at a desk in front of a computer
+  keywords: [김동현 PM, Donghyeon Kim, 자기소개, About Me, 경력 소개, Project Manager Bio]
 ---
 
 ![Alt text for image](/dhkimblackwhite.jpg)

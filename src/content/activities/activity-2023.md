@@ -3,6 +3,7 @@ title: Activity
 excerpt: Brief information of my activity
 tags:
   - Activity
+keywords: [김동현 PM, Donghyeon Kim, 프로젝트 활동, Activities, 이력, Project Experience]
 ---
 
 ![A person standing at the window](/post-1.jpg)

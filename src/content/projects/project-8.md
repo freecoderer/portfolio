@@ -6,6 +6,13 @@ isFeatured: false
 seo:
   image:
     src: '/oai1.png'
+keywords: [
+    김동현 PM, Donghyeon Kim, 프로젝트 매니저, Project Manager,
+    웹사이트 구축, Web Development, UX/UI 개선, UI/UX Design,
+    자동화 도구, Automation Tool, 데이터 시각화, Data Visualization,
+    프로젝트 관리, Project Planning, 실적 개선, Performance Tracking,
+    마케팅 프로젝트, Marketing Campaign, 번역 QA, Localization QA
+  ]
 ---
 ![Project preview](/oai1.png)
 # 🚀 Project Report Analysis: Home Automation Using Raspberry Pi and Weather API 🏠

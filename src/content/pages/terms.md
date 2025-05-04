@@ -3,6 +3,7 @@ title: Terms of Service
 seo:
   title: Terms of Service
   description: Explore the terms and conditions of Dante website for a clear understanding of guidelines and responsibilities.
+  keywords: [김동현 PM, Donghyeon Kim PM, 이용약관, Terms of Use, 사이트 정책, Site Policy]
 ---
 ## 📜 Terms of Service
 

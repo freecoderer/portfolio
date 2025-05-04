@@ -8,6 +8,11 @@ import ProjectPreview from '../components/ProjectPreview.astro';
 import siteConfig from '../data/site-config';
 import { sortItemsByDateDesc } from '../utils/data-utils';
 
+const title = '김동현 PM - Project Manager Portfolio';
+const description = 'Donghyeon Kim PM | 프로젝트 매니저 포트폴리오 및 이력서';
+const keywords = 'Donghyeon Kim PM, 김동현 PM, Project Manager, Portfolio, 이력서';
+const url = 'https://donghyeonkimpm.netlify.app';
+
 const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
 const featuredPosts = posts.filter(({ data }) => data.isFeatured);
 
@@ -16,6 +21,13 @@ const featuredProjects = projects.filter(({ data }) => data.isFeatured);
 ---
 
 <BaseLayout description={siteConfig.description} image={siteConfig.image}>
+    <head>
+        <title>{title}</title>
+        <meta name="description" content={description} />
+        <meta name="keywords" content={keywords} />
+        <meta name="author" content="Donghyeon Kim" />
+        <link rel="canonical" href={url} />
+    </head>
     <Hero />
     {
         featuredProjects?.length > 0 && (
