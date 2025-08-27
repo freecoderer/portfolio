@@ -19,7 +19,7 @@ Hello! I'm Donghyun Kim, an enthusiastic and dedicated IT professional. I am a c
 ## 📈 Professional Experience
 
 ### 🚀 PTKOREA, International
-**Assistant Project Manager**  
+**Global Project Manager**  
 *Duration: 2025-03 - Present*
 
 ### ⚙️ EQUINIX, International
@@ -31,6 +31,9 @@ Hello! I'm Donghyun Kim, an enthusiastic and dedicated IT professional. I am a c
 *Duration: 2024-07 - 2024-08*
 
 ## 🎓 Education
+
+### 📚 Gerorgia Institute of Technology 
+- **Degree**: Master of Science in Computer Engineering (2026 Spring Start)
 
 ### 📚 Catholic University of Korea
 - **Degree**: Bachelor of Science in Computer Engineering
