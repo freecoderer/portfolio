@@ -32,9 +32,6 @@ Hello! I'm Donghyun Kim, an enthusiastic and dedicated IT professional. I am a c
 
 ## 🎓 Education
 
-### 📚 Gerorgia Institute of Technology 
-- **Degree**: Master of Science in Computer Engineering (2026 Spring Start)
-
 ### 📚 Catholic University of Korea
 - **Degree**: Bachelor of Science in Computer Engineering
 
